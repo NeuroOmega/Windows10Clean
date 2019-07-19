@@ -1,7 +1,7 @@
-###########################################
-#### Windows 10 Install Cleanup Script ####
-#### Version: 0.9	Date: 07/18/2019   ####
-###########################################
+############################################
+#### Windows 10 Install Cleanup Script 	####
+#### Version: 0.9    Date: 07/18/2019   ####
+############################################
 
 ## This PowerShell script is intended to be run following a successful migration to Windows 10, with the intent to remove unnecessary functions present in the default configuration of Windows 10. ##
 
